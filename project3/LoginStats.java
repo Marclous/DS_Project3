@@ -5,7 +5,7 @@
  *
  * @author Puyuan Song
  */
-package project2;
+package project3;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

@@ -3,7 +3,7 @@
  *
  * @author Puyuan Song
  */
-package project2;
+package project3;
 import java.util.Date;
 
 public class Record {
